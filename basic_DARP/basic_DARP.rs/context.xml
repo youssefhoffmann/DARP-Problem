@@ -1,0 +1,4 @@
+<context id="basic_DARP" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+  	 <projection type="grid" id="grid"></projection>
+ <projection type="continuous space" id="space"></projection>
+</context>
